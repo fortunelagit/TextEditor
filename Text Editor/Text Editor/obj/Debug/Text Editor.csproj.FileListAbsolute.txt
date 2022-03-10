@@ -1,0 +1,11 @@
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\bin\Debug\Text Editor.exe.config
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\bin\Debug\Text Editor.exe
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\bin\Debug\Text Editor.pdb
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\obj\Debug\Text Editor.csproj.AssemblyReference.cache
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\obj\Debug\Text Editor.csproj.SuggestedBindingRedirects.cache
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\obj\Debug\Text_Editor.Form1.resources
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\obj\Debug\Text_Editor.Properties.Resources.resources
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\obj\Debug\Text Editor.csproj.GenerateResource.cache
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\obj\Debug\Text Editor.csproj.CoreCompileInputs.cache
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\obj\Debug\Text Editor.exe
+E:\6th Semester\Repo\PBKK\Text Editor\Text Editor\obj\Debug\Text Editor.pdb
